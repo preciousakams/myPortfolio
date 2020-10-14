@@ -219,20 +219,6 @@ span {
 .portfolio-section {
   padding-bottom: 0;
 }
-
-.portfolio-section .portfolioFilter {
-  margin-top: 60px;
-  color: #666;
-}
-
-.portfolio-section .portfolioFilter a {
-  margin: 10px 10px 0 0;
-}
-
-.portfolio-section .portfolioFilter a.current {
-  color: rgb(14, 164, 223);
-}
-
 .portfolio-section .portfolioContainer {
   margin-left: -15px;
   margin-right: -15px;
