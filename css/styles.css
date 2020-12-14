@@ -177,7 +177,9 @@ span {
   display: block;
   margin: 5px 0;
 }
-
+.intro .social-icons > li{
+  margin-left:5px;
+}
 .intro .social-icons > li > a {
   height: 35px;
   line-height: 35px;
