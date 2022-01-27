@@ -73,10 +73,10 @@ span {
   display: inline-block;
 }
 
-.section {
+/* .section {
   padding: 100px 0 50px;
   
-}
+} */
 
 .section .heading {
   margin-bottom: 60px;
@@ -236,13 +236,13 @@ span {
   display: inline;
 }
 
-.portfolio-section .p-item.p-item-2 .img:first-child {
+.portfolio-section .p-item .img:first-child {
   float: left;
   width: 50%;
   padding-right: 7.5px;
 }
 
-.portfolio-section .p-item.p-item-2 .img:last-child {
+.portfolio-section .p-item .img:last-child {
   float: right;
   width: 50%;
   padding-left: 7.5px;
