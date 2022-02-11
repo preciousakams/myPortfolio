@@ -17,7 +17,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   word-wrap: break-word;
-  background-color: rgb(245, 223, 240);
+  background-color: rgb(235,211,211);
 }
 
 h1,h2,h3,h4,h5,h6,p,a,ul,span,li,img,button {
@@ -152,14 +152,14 @@ span {
   right: 0;
   height: 150px;
   z-index: -1;
-  background-color: rgb(245, 223, 240);
+  background-color: rgb(235,211,211);
 }
 
 .intro {
   padding: 0 20px;
   margin-top: 100px;
   text-align: center;
-  background-color: rgb(245, 223, 240);
+  background-color: rgb(235,211,211);
 }
 
 .intro .profile-img {
