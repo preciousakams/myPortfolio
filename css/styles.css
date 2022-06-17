@@ -17,7 +17,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   word-wrap: break-word;
-  background-color: rgb(249, 251, 251);
+  background-color: rgb(242, 221, 221);
 }
 .infoSpan {
   color: rgba(8, 11, 164, 0.98)
@@ -142,9 +142,7 @@ span {
   bottom: 0;
   left: 0;
   right: 0;
-  background: url('/icons/bg.png') no-repeat;
-  background-size: cover;
-
+  background-color: rgb(165, 217, 237);
   
 }
 
@@ -156,12 +154,14 @@ span {
   right: 0;
   height: 150px;
   z-index: -1;
+  background-color: rgb(242, 221, 221);
 }
 
 .intro {
   padding: 0 20px;
   margin-top: 100px;
   text-align: center;
+  background-color: rgb(242, 221, 221);
 
 }
 
@@ -195,6 +195,7 @@ span {
   position: relative;
   margin: 0 5px 5px;
   color: #fff;
+  background: rgb(14, 164, 223);
 }
 
 .intro .social-icons > li > a:after {
